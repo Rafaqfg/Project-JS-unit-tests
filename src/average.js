@@ -29,3 +29,6 @@ const average = (array) => {
 };
 
 module.exports = average;
+
+// bibliografica utilizada:
+// https://www.w3schools.com/jsref/jsref_round.asp
